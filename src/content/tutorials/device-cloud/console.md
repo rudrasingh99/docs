@@ -25,7 +25,7 @@ many helpful features to make prototyping a breeze. See the last time a
 device connected, debug a firmware issue by observing event logs,
 set up a webhook to send data to an external service, and more.
 
-### Devices
+### Devicess
 
 The Devices page allows you to see a list of the devices associated with
 your account. Here, you can see specific information about each device,
